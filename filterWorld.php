@@ -71,7 +71,7 @@
 	<select name="CountryCodePost" required>
 	<?php
 
-	echo "<option disabled selected value> -- Selecciona un paÃ¯s -- </option>";
+	echo "<option disabled selected value> -- Selecciona un païs -- </option>";
 
 	mysqli_data_seek($resultat, 0);
 
